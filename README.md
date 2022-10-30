@@ -21,11 +21,11 @@
 
 
 ### 1337 Cursus Progress  
-<img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/stats?cursusId=21&coalitionId=282" align="left" height="450" width="49%" />  
+<img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/stats?cursusId=21&coalitionId=282" align="left" height="450" width="40%" />  
   
 
 <div align="center">
-<img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/stats?cursusId=9&coalitionId=piscine" align="center" height="450" width="49%" />
+<img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/stats?cursusId=9&coalitionId=piscine" align="center" height="450" width="40%" />
 </div>  
   
 
