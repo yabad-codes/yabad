@@ -27,7 +27,20 @@
 <div align="center">
 <img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/stats?cursusId=9&coalitionId=piscine" align="center" height="470" width="48%" />
 </div>  
+
+# <div align="center">1337 Projects : </div>  
   
+
+## libft : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/project/2812080" alt="yabad's 42 Libft Score" /></a>  
+  
+
+## ft_printf : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/project/2841982" alt="yabad's 42 ft_printf Score" /></a>  
+  
+
+## get_next_line : &nbsp;<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/project/2838376" alt="yabad's 42 get_next_line Score" /></a>  
+  
+
+## born2beroot : &nbsp;&nbsp;<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/project/2845365" alt="yabad's 42 Born2beroot Score" /></a>
 
 <br/>  
 
