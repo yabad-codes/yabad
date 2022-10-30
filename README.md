@@ -21,11 +21,11 @@
 
 
 ### 1337 Cursus Progress  
-<img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/stats?cursusId=21&coalitionId=282" align="left" height="450" width="48%" />  
+<img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/stats?cursusId=21&coalitionId=282" align="left" height="470" width="470" />  
   
 
 <div align="center">
-<img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/stats?cursusId=9&coalitionId=piscine" align="center" height="450" width="48%" />
+<img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/stats?cursusId=9&coalitionId=piscine" align="center" height="470" width="470" />
 </div>  
   
 
@@ -33,7 +33,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -50,7 +50,18 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
 <br/>  
+
 
 ## Connect with me  
 <div align="center">
