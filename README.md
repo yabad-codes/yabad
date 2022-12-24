@@ -42,6 +42,9 @@
 
 ## born2beroot : &nbsp;&nbsp;<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/project/2845365" alt="yabad's 42 Born2beroot Score" /></a>
 
+
+## minitalk : &nbsp;&nbsp;<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/project/2909182" alt="yabad's 42 Minitalk Score" /></a>
+
 <br/>  
 
 
