@@ -49,7 +49,7 @@
 ## push_swap : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/project/2915828" alt="yabad's 42 Push_Swap Score" /></a>
 
 
-## fract'ol : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/project/2902495" alt="yabad's 42 fract-ol Score" /></a>
+## fract'ol : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9v61q6q00060fl2resxmeqb/project/2902495" alt="yabad's 42 fract-ol Score" /></a>
 
 <br/>  
 
