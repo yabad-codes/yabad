@@ -109,13 +109,6 @@
 <br/>  
 
 
-## Spotify listening now 
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ul67dvv3vmx2p22l2x7ganf43q&cover_image=true&theme=compact&show_offline=false" /></div>  
-
 <br/>  
 
   
